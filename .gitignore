@@ -1,0 +1,22 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+ 
+# Virtual environments
+.venv/
+venv/
+ 
+# Local environment variables and secrets
+.env
+.env.*
+ 
+# Local database and user uploads
+db.sqlite3
+media/
+ 
+# Generated static files
+staticfiles/
+ 
+# Editor settings
+.vscode/
+.idea/
